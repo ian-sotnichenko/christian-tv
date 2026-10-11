@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",ОНТ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 group-title="Украина",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="Украина",Армія ТБ
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="Украина",1+1 Україна
+http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 group-title="Украина",Суспільне Культура
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 group-title="Украина",ICTV2
+http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 group-title="Украина",Новий канал
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 group-title="Украина",ТЕТ
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 group-title="Украина",2+2
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 group-title="Христианские",CNL Украина (ссылка из публичного списка; может не работать)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 group-title="Христианские",TBN Rus (публичная ссылка; может не работать)
+http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
